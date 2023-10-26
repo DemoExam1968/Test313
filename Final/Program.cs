@@ -18,6 +18,8 @@ namespace Final
             y2 = rand.NextDouble()*100;
             Console.WriteLine("(x1, y1) = (" + x1 +", " + y1 +")");
             Console.WriteLine("(x2, y2) = (" + x2 + ", " + y2 + ")");
+            double d = Math.Sqrt(Math.Pow(x1-x2,2)+Math.Pow(y1-y2,2));
+            Console.WriteLine("Длина отрезка = " + d);
             Console.ReadKey();
         }
     }
