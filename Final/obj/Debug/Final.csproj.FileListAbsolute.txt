@@ -1,0 +1,8 @@
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\bin\Debug\Final.exe.config
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\bin\Debug\Final.exe
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\bin\Debug\Final.pdb
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\obj\Debug\Final.exe
+C:\Users\matisik-i-a\Desktop\Studs\313\Git\Final\Final\obj\Debug\Final.pdb
