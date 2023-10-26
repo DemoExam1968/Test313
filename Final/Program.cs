@@ -22,6 +22,8 @@ namespace Final
             Console.WriteLine("Длина отрезка = " + d);
             double c = 2*Math.PI*d;
             Console.WriteLine("Длина окружности = " + c);
+            double s = Math.PI * d * d;
+            Console.WriteLine("Площадь круга = " + s);
             Console.ReadKey();
         }
     }
