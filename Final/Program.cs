@@ -20,6 +20,8 @@ namespace Final
             Console.WriteLine("(x2, y2) = (" + x2 + ", " + y2 + ")");
             double d = Math.Sqrt(Math.Pow(x1-x2,2)+Math.Pow(y1-y2,2));
             Console.WriteLine("Длина отрезка = " + d);
+            double c = 2*Math.PI*d;
+            Console.WriteLine("Длина окружности = " + c);
             Console.ReadKey();
         }
     }
